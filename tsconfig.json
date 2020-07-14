@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "target": "esnext",
+      "lib": ["DOM", "DOM.Iterable", "esnext"],
+      "module": "esnext",
+      "jsx": "preserve",
+    },
+    "include": ["src"]
+  }
